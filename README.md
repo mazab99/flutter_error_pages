@@ -15,6 +15,7 @@ We designed 20 error pages for your app by using Flutter Framework. It contains 
 
 ![Preview](assets/screenshots/second.png)
 
+
 ## Powerful and Customizable
 
 ![Preview](assets/screenshots/third.png)
